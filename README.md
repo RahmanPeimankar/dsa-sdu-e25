@@ -11,3 +11,5 @@ Lecture 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 Lecture 3: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e25/blob/master/Lecture%203/dsa-3-array-based-sequence.ipynb)
 
 Lecture 4: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e25/blob/master/Lecture%204/dsa-4-stacks-queues-deques.ipynb)
+
+Lecture 5: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e25/blob/master/Lecture%205/dsa-5-linked_lists.ipynb)
