@@ -21,3 +21,5 @@ Lecture 7: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 Lecture 8: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e25/blob/master/Lecture%208/dsa-8-maps.ipynb)
 
 Lecture 9: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e25/blob/master/Lecture%209/dsa-9-hash-tables.ipynb)
+
+Lecture 10: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/dsa-sdu-e25/blob/master/Lecture%2010/dsa-10-sorted-maps-trees.ipynb)
